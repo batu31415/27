@@ -15,7 +15,7 @@ extends:
   - export.yml
     
 site:
-  template: book-theme
+  template: book-themes
   options:
     favicon: Figures/favicon.ico
     style: ./css/TUD_stylesheet.css
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://batu31415.github.io/27/ # change this URL to your repository
+      url: https://batu31415.github.io/27/ # change this URL to your repository.
